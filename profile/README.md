@@ -13,7 +13,7 @@
 - Mannuhd </> Developer & Chief Executive Officer
 - GabryGreen </> Beta Tester
 - il_gabryyy </> Helper
-- 
+
 <!--
 made by mannuhd
 <!--

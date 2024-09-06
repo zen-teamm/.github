@@ -11,8 +11,7 @@
 
 # People involved
 - Mannuhd </> Developer & Chief Executive Officer
-- GabryGreen </> Beta Tester
-- il_gabryyy </> Helper
+- Axton </> Helper
 
 <!--
 made by mannuhd

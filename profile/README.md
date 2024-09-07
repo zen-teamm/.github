@@ -4,7 +4,7 @@
 **We are a team of people developing tools for people to use without paying.**
 
 # Contribution
-**Sadly, the project isnt opensourced, meaning that it isnt possible to contribute in any way.**
+**Sadly, our projects arent opensourced, meaning that it isnt possible to contribute in any way.**
 
 # Useful Resources
 **You can find our projects by clicking [here](https://github.com/orgs/zen-teamm/repositories).**

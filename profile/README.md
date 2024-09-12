@@ -11,7 +11,7 @@
 
 # People involved
 - Mannuhd </> Developer & Chief Executive Officer
-- Axton </> Helper
+- Arstwx </> Helper
 
 <!--
 made by mannuhd

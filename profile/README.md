@@ -11,7 +11,7 @@
 
 # People involved
 - Mannuhd </> Developer & Chief Executive Officer
-- Arstwx </> Helper
+- Rchyx </> Helper
 
 <!--
 made by mannuhd
